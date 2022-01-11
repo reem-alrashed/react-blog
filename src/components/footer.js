@@ -1,10 +1,9 @@
 import React from 'react'
 
-
 const Footer = () => (
   <div className="footer">
-    <span> All rights reserved 2022 </span>
+    All rights reserved 2022 
   </div>
-)
+);
 
-export default Footer
+export default Footer;
