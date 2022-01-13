@@ -1,4 +1,5 @@
 import React from 'react'
+require('../css/app.css')
 
 const Footer = () => (
   <div className="footer">
