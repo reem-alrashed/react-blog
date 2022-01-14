@@ -2,8 +2,8 @@
   "_id": {
     "$oid": "5f719c7800a6dcee3c9d50d2"
   },
-  "title": "Good morning!",
-  "text": "Hope you have a nice day.",
+  "title": "Unit testing vs Integration testing",
+  "text": "A unit test, is performed on a small chunk of code in the application. Usually a specific function or class, to make sure its doing its job. An integration test checks how the individual pieces of your application logic work together. The span of one integration test will cover multiple chunks of code (that can and should each have their own unit tests) and make sure that working correctly together in a flow or process.",
   "userId": {
     "$oid": "5f719c3b00a6dcee3c9d50d1"
   }
